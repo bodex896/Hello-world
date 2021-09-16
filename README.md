@@ -1,2 +1,7 @@
 # Hello-world
-Ideas
+
+Name: Clement Bodex
+
+ 
+Specialty: Programming (python,C, HTML, CSS,Js), 
+Reverse engineering and Ethical hacking.
