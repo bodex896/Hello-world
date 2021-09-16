@@ -3,5 +3,5 @@
 Name: Clement Bodex
 
  
-Specialty: Programming (python,C, HTML, CSS,J's), 
+Specialty: Programming (python,C, HTML, CSS,Js), 
 Reverse engineering and Ethical hacking.
